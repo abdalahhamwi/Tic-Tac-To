@@ -6,7 +6,7 @@ How to code a Tic Tac Toe game in Python for beginners! Learn how to create a ga
 
 If you are using a Linux distribution, open the terminal and install the Tkinter library. sudo apt-get install python3-tk
 
-![tictactoe-python-preview](https://github.com/ImKennyYip/tictactoe-python?tab=readme-ov-file)
+![tictactoe-python-preview](https://github.com/abdalahhamwi/Tic-Tac-To)
 
 ## Homework:
 You can continue working on this project if you like. One feature you can add is score keeping for playerX and playerO and updating the score after every game. Also, feel free to style the game as you wish, with different colors, fonts, etc.
